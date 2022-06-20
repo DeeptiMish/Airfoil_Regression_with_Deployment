@@ -7,4 +7,3 @@ pandas
 Werkzeug
 scikit-learn
 matplotlib
-pickle
